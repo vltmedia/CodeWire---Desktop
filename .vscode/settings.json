@@ -1,0 +1,4 @@
+{
+	"window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]",
+	"workbench.colorTheme": "Material Theme Ocean High Contrast"
+}
